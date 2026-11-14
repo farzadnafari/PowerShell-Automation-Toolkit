@@ -34,7 +34,6 @@ PowerShell-Automation-Toolkit/
 ├── 01 ... .md
 ├── 02 ... .ps1
 ├── 02 ... .md
-│
 └── ...
 
 Each PowerShell script has a corresponding Markdown documentation file. All files are currently stored in the repository root.
